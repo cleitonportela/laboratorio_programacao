@@ -14,4 +14,6 @@ int main(){
     vol = comp * larg * alt;
 
     printf("O volume total é %.2f unidades de área", vol);
+
+    return 0;
 }

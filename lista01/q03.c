@@ -8,4 +8,6 @@ int main(){
     scanf("%f", &num);
 
     printf("Número com 1 casa decimal: %.1f", num);
+
+    return 0;
 }

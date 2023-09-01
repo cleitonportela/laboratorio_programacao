@@ -14,4 +14,6 @@ int main(){
     printf("O produto dos dois número é: %d \n", (num1 * num2));
     printf("O quociente dos dois número é: %d \n", (num1 / num2));
     printf("O resto da divisão dos dois números é: %d \n", (num1 % num2));
+
+    return 0;
 }

@@ -13,4 +13,6 @@ int main(){
     dol = real/dol;
 
     printf("%.2f reais corresponde a %.2f dólares", real, dol);
+
+    return 0;
 }

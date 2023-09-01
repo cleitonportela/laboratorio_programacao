@@ -11,4 +11,5 @@ int main(){
     printf("Quadrado do número: %d \n", num * num);  
     printf("Meio do número: %.2f \n", (double) (num/2.0));  
 
+    return 0;
 }

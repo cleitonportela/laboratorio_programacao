@@ -40,4 +40,5 @@ int main(){
 
     printf("Resultado 3: %d \n", x);
 
+    return 0;
 }
